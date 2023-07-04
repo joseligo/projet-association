@@ -60,6 +60,7 @@ h2 {
   border-radius: 5px;
 }
 .button:hover {
+  transition: all 0.5s;
   background: rgb(196, 195, 195);
 }
 .container-btn {
